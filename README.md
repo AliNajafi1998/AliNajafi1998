@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 
 🌱 Hi 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AliNajafi1998&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AliNajafi1998&show_icons=true&count_private=true&theme=tokyonight)
