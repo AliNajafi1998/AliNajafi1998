@@ -13,11 +13,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🌱 Hi This is Ali Najafi(**TheLoneCoder**)
+🌱 Hi, this is Ali Najafi(**TheLoneCoder**)
 
 ⚡ I am a Machine Learning Engineer
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AliNajafi1998&show_icons=true&count_private=true&theme=tokyonight)
 
 <br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AliNajafi1998&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AliNajafi1998&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
