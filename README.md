@@ -19,5 +19,4 @@ Here are some ideas to get you started:
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AliNajafi1998&show_icons=true&count_private=true&theme=tokyonight)
 
-<br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AliNajafi1998&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
