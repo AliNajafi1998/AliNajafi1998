@@ -1,22 +1,69 @@
-<!--
-**AliNajafi1998/AliNajafi1998** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is **Ali Najafi** and I'm a Machine Learning Engineer.
 
-Here are some ideas to get you started:
+I using Python to develop AI models.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm interested in solving Natural Language Processing related challenges using Machine Learning Algorithms.
 
-🌱 Hi, this is Ali Najafi(**TheLoneCoder**)
+My favorite IDE is Pycharm and I enjoy coding with it.
 
-⚡ I am a Machine Learning Engineer
+---
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AliNajafi1998&show_icons=true&count_private=true&theme=tokyonight)
+<h2 align="center">What I use</h2>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AliNajafi1998&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center">
+    <img src="https://img.shields.io/badge/-PYTHON-777BB4?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+    <img src="https://img.shields.io/badge/-DJANGO-007BB4?style=for-the-badge&logo=django&logoColor=white" alt="Django">
+    <img src="https://img.shields.io/badge/-TENSORFLOW-FFA000?style=for-the-badge&logo=tensorflow&logoColor=white" alt="Tensorflow">
+    <img src="https://img.shields.io/badge/-PYTORCH-F5F5F5?style=for-the-badge&logo=pytorch&logoColor=white" alt="Pytorch">
+    <img src="https://img.shields.io/badge/-Java-005900?style=for-the-badge&logo=java&logoColor=white" alt="Java">
+    <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+    <img src="https://img.shields.io/badge/-Github-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+    
+</p>
+
+
+---
+
+<h2 align="center">Connect with me</h2>
+
+<p align="center">
+    <a href="https://github.com/alinajafi1998" target="_blank">
+        <img src="https://img.shields.io/badge/-Github-181717?&logo=github&logoColor=white&style=for-the-badge" alt="GitHub">
+    </a>
+    <a href="https://www.linkedin.com/in/najafi-ali1998/" target="_blank">
+        <img src="https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn">
+    </a>
+    <a href="https://twitter.com/CoderLone" target="_blank">
+        <img src="https://img.shields.io/badge/-Twitter-1da1f2?logo=twitter&logoColor=white&style=for-the-badge" alt="Twitter">
+    </a>
+    <a href="https://t.me/TheLoneCoder" target="_blank">
+        <img src="https://img.shields.io/badge/-Telegram-2CA5E0?logo=telegram&logoColor=white&style=for-the-badge" alt="Telegram">
+    </a>
+    <a href="mailto:najafi1998ali@gmail.com" target="_blank">
+        <img src="https://img.shields.io/badge/-Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge" alt="Gmail">
+    </a>
+</p>
+
+---
+
+<details align="center">
+    <summary>
+        <b>More</b><br>
+    </summary>
+    <br>
+    <p>
+        <img  height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=alinajafi1998&show_icons=true&theme=vue"/>
+        <img  height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=alinajafi1998&layout=compact&theme=vue" />
+    </p>
+    <p>
+        <img align="center" src="https://github-profile-trophy.vercel.app/?username=alinajafi1998" />
+    </p>
+    <p>
+        <img align="center" src="https://komarev.com/ghpvc/?username=alinajafi1998"/>
+    </p>
+  
+  
+
+
+
+</details>
