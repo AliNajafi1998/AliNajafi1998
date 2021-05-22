@@ -13,8 +13,8 @@ My favorite IDE is Pycharm and I enjoy coding with it.
 <p align="center">
     <img src="https://img.shields.io/badge/-PYTHON-777BB4?style=for-the-badge&logo=python&logoColor=white" alt="Python">
     <img src="https://img.shields.io/badge/-DJANGO-007BB4?style=for-the-badge&logo=django&logoColor=white" alt="Django">
-    <img src="https://img.shields.io/badge/-TENSORFLOW-FFA000?style=for-the-badge&logo=tensorflow&logoColor=white" alt="Tensorflow">
-    <img src="https://img.shields.io/badge/-PYTORCH-F5F5F5?style=for-the-badge&logo=pytorch&logoColor=white" alt="Pytorch">
+    <img src="https://img.shields.io/badge/-TENSORFLOW-e67e22?style=for-the-badge&logo=tensorflow&logoColor=white" alt="Tensorflow">
+    <img src="https://img.shields.io/badge/-PYTORCH-34495e?style=for-the-badge&logo=pytorch&logoColor=white" alt="Pytorch">
     <img src="https://img.shields.io/badge/-Java-005900?style=for-the-badge&logo=java&logoColor=white" alt="Java">
     <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
     <img src="https://img.shields.io/badge/-Github-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
