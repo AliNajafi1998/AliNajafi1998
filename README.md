@@ -2,7 +2,7 @@ My name is **Ali Najafi** and I'm a Machine Learning Engineer.
 
 I using Python to develop AI models.
 
-I'm interested in solving Natural Language Processing related challenges using Machine Learning Algorithms.
+I'm interested in solving Natural-Language-Processing-related challenges using Machine Learning Algorithms.
 
 My favorite IDE is Pycharm and I enjoy coding with it.
 
