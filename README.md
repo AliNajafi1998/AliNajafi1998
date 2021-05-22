@@ -58,9 +58,7 @@ My favorite IDE is Pycharm and I enjoy coding with it.
     <p>
         <img align="center" src="https://github-profile-trophy.vercel.app/?username=alinajafi1998" />
     </p>
-    <p>
-        <img align="center" src="https://komarev.com/ghpvc/?username=alinajafi1998"/>
-    </p>
+
   
   
 
