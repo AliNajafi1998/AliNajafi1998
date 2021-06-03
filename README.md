@@ -46,7 +46,7 @@ My favorite IDE is Pycharm and I enjoy coding with it.
 
 ---
 
-<details align="center">
+<details align="center" open>
     <summary>
         <b>More</b><br>
     </summary>
