@@ -1,5 +1,7 @@
-Short story:
+Short story:<br>
 Like to learn new things, Fell in love with computers, Found PRs more interesting than parties.
+
+Long story? come on ;D
 
 ---
 
