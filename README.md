@@ -1,4 +1,5 @@
-NLP Guy - Trying to stay alive with coding
+Short story:
+Like to learn new things, Fell in love with computers, Found PRs more interesting than parties.
 
 ---
 
