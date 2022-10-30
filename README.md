@@ -4,7 +4,8 @@ Like to learn new things, Fell in love with computers, Found PRs more interestin
 Long story? come on ;D
 
 ---
-## Now I am Listening
+<h4> Now I'm listening... 🎧</h4> 
+
 [![Spotify](https://spotify-now-playing-rr1i.vercel.app/api/spotify)](https://open.spotify.com/user/3157fy4ugjlzfy75hdazapbgh7li)
 
 
