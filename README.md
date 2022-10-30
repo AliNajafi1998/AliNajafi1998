@@ -12,7 +12,7 @@
 [![Spotify](https://spotify-now-playing-rr1i.vercel.app/api/spotify)](https://open.spotify.com/user/3157fy4ugjlzfy75hdazapbgh7li)
 
 ---
-# Get in touch 
+### Get in touch 
 I am always open to new opportunities and collabrations. Do not hesitate to reach me out!
 
 🌐 [www.najafi-ali.com](http://www.najafi-ali.com)
