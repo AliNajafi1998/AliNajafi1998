@@ -13,7 +13,7 @@
 
 ---
 ### Get in touch 
-I am always open to new opportunities and collabrations. Do not hesitate to reach me out!
+I am always open to new opportunities and collabrations. Do not hesitate to reach out to me!
 
 🌐 [www.najafi-ali.com](http://www.najafi-ali.com)
  
