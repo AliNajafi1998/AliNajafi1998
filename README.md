@@ -1,7 +1,7 @@
 # Hi there!
 
 - I am Ali Najafi, a **Computer Science and Engineering** master's student at **Sabanci University**, **Turkey**. 📚 🎓 <br>
-- My field of research is mostly about **Social Computations** and **Natural Language Processing**. 🎯 <br>
+- My field of research is mostly about **Computational Social Science** and **Natural Language Processing**. 🎯 <br>
 - Always interested in Data and Real-World Challenges. 🤗
 
 
